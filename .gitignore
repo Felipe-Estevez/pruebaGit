@@ -1,0 +1,10 @@
+*.d
+*.obj
+*.o
+pruebaGit.X/nbproject/private/
+pruebaGit.X/nbproject/Package-*.bash
+build/
+debug/
+dist/
+pruebaGit.X/nbproject/Makefile-*
+*.map
